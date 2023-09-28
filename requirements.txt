@@ -1,0 +1,5 @@
+python version v=2.7.18
+python pip2 version = 19.2.3
++ add C:\python27\Scripts to user env path variable
+
+pip2 install opencv-python==4.2.0.32
